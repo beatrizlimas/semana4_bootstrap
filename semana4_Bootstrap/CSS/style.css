@@ -1,0 +1,16 @@
+a>p{
+    color:brown; background-color: floralwhite
+}
+
+h1{
+    color: indigo;
+}
+
+#curso>img{
+    width: 190px;
+}
+
+body{
+    background-image: url(../img/back.jpg);
+    background-size: cover;
+}
